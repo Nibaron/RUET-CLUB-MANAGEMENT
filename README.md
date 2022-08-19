@@ -1,7 +1,7 @@
 # REQUIREMENTS
 * First, install XAMPP
 * Then, Go to C:\xampp\htdocs folder and cteate a new folder called "clubhome"
-* download all git file(except image and spl file) and paste it there like this.
+* download all git file(except image and sql file) and paste it there like this.
 
 <image src="/images/location.jpg">
 
