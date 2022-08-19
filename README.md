@@ -14,5 +14,5 @@
 # HOME PAGE
 <image src="/images/home1.jpg">
 
-# DATABASE PAGE
+# DATABASE
 <image src="/images/PHPmyAdmin.png">
