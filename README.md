@@ -1,2 +1,5 @@
 # RUET-CLUB-MANAGEMENT
-Web based Project CSE 3100
+* First, install XAMPP
+* Go to C:\xampp\htdocs folder and cteate a folder called "clubhome"
+* download all git file and paste it there.
+
